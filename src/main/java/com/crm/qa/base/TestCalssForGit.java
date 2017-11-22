@@ -9,6 +9,9 @@ package com.crm.qa.base;
  */
 public class TestCalssForGit {
 	
-	
+	public void test() {
+		
+		System.out.println("Welcome to git");
+	}
 
 }
