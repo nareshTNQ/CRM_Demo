@@ -11,7 +11,7 @@ public class TestCalssForGit {
 	
 	public void test() {
 		
-		System.out.println("Welcome to git");
+		System.out.println("Welcome to github1");
 	}
 
 }
